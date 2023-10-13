@@ -1,0 +1,27 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAA3cwAAADgvtAzM+7u7u69Paoz493dvb09OjMz7rvuvT06M1MMAOC9PaozEwwA3gutqjM1DAC+C9A6M8Ps7u0AAN3NPDPj7QAAAMwzM8PuAAAAPTozMwwAAAA9OjNTDAAAADyqOhMMAAAA0KM6NQwAAAAAPTPDAAAAAADQzAwAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Balloons"
+    },
+    "|y#eS|N5[gbL)[kt8F_r": {
+        "data": "hwQOAA4AAADMzM/8DwAAABw7Gxv7//8AHLsTH4G78QDAuxH7ixsPAAC/u7uLGw8AAL+7u4sb/wDAuxH7i7vxABy7Ex+Buw8AHDsbG7gbDwDMzM/8vxvxAAAAAADw+/8AAAAA+//7AAAAAAAfsfsAAAAAAPv/DwAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ezra"
+    },
+    "image3": {
+        "data": "hwQIAAYAAAAARAAAINECANQiQgAkIUIAJCFCACQiTQAgHQIAAEQAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Football"
+    },
+    "image2": {
+        "data": "hwQQAA4AAAAARA4AAAAAAEBV5QAAAAAAVFXk3g0AAABURVRV293dAFRFVV81VNUA4FVVVbVFDQAATkREP0UNAABORES/Rd0A4FVVVTVF1QBURVVftUUNAFRFVFVDRQ0AVFXkvkVU1QBAVeUAUNTdAABEDgBV3QAAAAAAUFUNAAAAAADw1QAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ruby"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
